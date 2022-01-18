@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRChat", "SignalRChat\SignalRChat.csproj", "{074693BE-D5B1-4B30-A90A-942727C0F627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerSignalRApp", "BlazorServerSignalRApp\BlazorServerSignalRApp.csproj", "{6920AB31-38A3-4DCF-A8FC-CF406D3AA9E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074693BE-D5B1-4B30-A90A-942727C0F627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074693BE-D5B1-4B30-A90A-942727C0F627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074693BE-D5B1-4B30-A90A-942727C0F627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074693BE-D5B1-4B30-A90A-942727C0F627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6920AB31-38A3-4DCF-A8FC-CF406D3AA9E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6920AB31-38A3-4DCF-A8FC-CF406D3AA9E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6920AB31-38A3-4DCF-A8FC-CF406D3AA9E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6920AB31-38A3-4DCF-A8FC-CF406D3AA9E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09535D2A-C059-4A70-A05E-3C6231446DCE}
+	EndGlobalSection
+EndGlobal
